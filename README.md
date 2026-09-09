@@ -15,7 +15,7 @@ This animation shows the evolution of the magnetic field energy spectrum through
 
 https://github.com/user-attachments/assets/03da338d-f2e3-45e3-b1a7-f18abe3f72cb
 
-
+<br><br>
 ## Snapshots of the magnetic field evolution
 
 This animation shows snapshots of the magnetic field evolution with the number of e-folds, N. The magnetic field gradually grows during inflation, followed by the emergence of turbulence and its subsequent evolution.
