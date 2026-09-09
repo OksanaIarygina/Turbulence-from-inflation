@@ -1,6 +1,6 @@
 
 
-# Turbulence-from-inflation
+# Turbulence from inflation
 Animations from lattice simulations of turbulence from inflation.
 
 ## Magnetic energy spectrum
