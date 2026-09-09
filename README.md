@@ -1,9 +1,11 @@
+
+
 # Turbulence-from-inflation
 Animations from lattice simulations of turbulence from inflation.
 
-## Magnetic power spectrum
+## Magnetic energy spectrum
 
-This animation shows the evolution of the magnetic field power spectrum throughout inflation, reheating, and the subsequent radiation-dominated era. The vertical dashed line marks the peak scale of the power spectrum. The colors indicate four distinct stages:
+This animation shows the evolution of the magnetic field energy spectrum throughout inflation, reheating, and the subsequent radiation-dominated era. The vertical dashed line marks the peak scale of the power spectrum. The colors indicate four distinct stages:
 
 1) **Inflation** (with the end of inflation at N=0) and towards the maximal magnetic field amplification at N=0.54 (blue).
 2) **Reheating and the onset of inflaton-driven turbulence** from N=0.54 to N=6.44 (violet). The peak moves toward smaller wavenumbers, indicating the onset of the inverse cascade.
