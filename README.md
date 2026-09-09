@@ -13,7 +13,7 @@ This animation shows the evolution of the magnetic field energy spectrum through
 4) **Dynamo amplification** followed by decaying turbulence from N=10.34 onward (red).
    When the energy transferred from plasma motions to the magnetic field by the Lorentz force exceeds electromagnetic dissipation, dynamo action sets in, leading to renewed magnetic-field amplification and temporarily reversing its decay. The magnetic field subsequently resumes decaying in the freely decaying turbulent regime.
 
-https://github.com/user-attachments/assets/d43ca0e4-8ac2-49bf-a9a2-38957a78dc03
+https://github.com/user-attachments/assets/03da338d-f2e3-45e3-b1a7-f18abe3f72cb
 
 
 ## Perturbations
