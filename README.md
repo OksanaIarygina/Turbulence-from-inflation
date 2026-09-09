@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/03da338d-f2e3-45e3-b1a7-f18abe3f72cb
 <br><br>
 ## Snapshots of the magnetic field evolution
 
-This animation shows snapshots of the magnetic field evolution with the number of e-folds, N. Starting from vacuum fluctuations, the magnetic field gradually grows during inflation, followed by the emergence of turbulence and its subsequent evolution.
+This animation shows snapshots of the magnetic field evolution with the number of e-folds, N. Starting from vacuum fluctuations, the magnetic field gradually grows during inflation, followed by the emergence of turbulence and its subsequent development.
 
 https://github.com/user-attachments/assets/075ad3b3-8370-48df-bd3e-825fcb3b60e8
 
