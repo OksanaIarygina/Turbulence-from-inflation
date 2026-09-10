@@ -1,8 +1,8 @@
 
 
 # Turbulence from inflation
-Animations from lattice simulations of "Primordial turbulence from inflation: a new inflaton-driven turbulent regime".
-[Read the paper on arXiv.](https://arxiv.org/abs/2609.10326)
+Animations from lattice simulations of "Primordial turbulence from inflation: a new inflaton-driven turbulent regime". <br>
+Read the paper on [arXiv](https://arxiv.org/abs/2609.10326).
 
 ## Magnetic energy spectrum
 
